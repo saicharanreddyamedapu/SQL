@@ -1,0 +1,12 @@
+2. WAQTD NAME OF THE EMPLOYEES WORKING AS CLERK.
+
+SQL> SELECT ENAME FROM EMP WHERE JOB = 'CLERK';
+
+ENAME                                                                                               
+----------                                                                                          
+SMITH                                                                                               
+ADAMS                                                                                               
+JAMES                                                                                               
+MILLER                                                                                              
+
+SQL> SPOOL OFF;
